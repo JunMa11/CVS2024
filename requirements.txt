@@ -1,0 +1,8 @@
+torch>=2.4
+torchvision
+opencv-python
+timm
+pandas
+tqdm
+scikit-learn
+
